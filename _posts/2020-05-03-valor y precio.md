@@ -1,4 +1,16 @@
-﻿#VALOR Y PRECIO
+﻿---
+layout: post
+title:  "Valor y precio"
+date:   2020-05-3
+excerpt: "No hay peor necio que aquel que confunde valor y precio"
+tag:
+- precio 
+- valor
+- dinero
+comments: true
+---
+
+#Valor y precio
 
 La compleja situación sanitaria, económica y social que enfrentamos nos induce a adaptar nuestro comportamiento, ya sea por voluntad o por necesidad, el cambio más evidente en el corto plazo es el distanciamiento social. 
 En la economía esto también es cierto, las personas actuamos por estímulos (o incentivos) adecuando nuestras acciones en función de las condiciones que nos rodean. Por ejemplo el cambio en el precio de los bienes y el ingreso de las personas, afecta a nuestras decisiones económicas.
