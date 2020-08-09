@@ -7,7 +7,7 @@ tag:
 - precio 
 - valor
 - dinero
-comments: true
+comments: false
 ---
 
 # Valor y precio
