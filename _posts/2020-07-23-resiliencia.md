@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La resiliencia"
-date:   2020-05-3
+date:   2020-07-23
 excerpt: "No hay peor necio que aquel que confunde valor y precio"
 tag:
 - precio 
