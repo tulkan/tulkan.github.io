@@ -10,10 +10,6 @@ tag:
 comments: false
 ---
  
-ruta
-
-ruta
-
 
 Estamos  acostumbrados a hablar de los bienes en la economía como algo que se compra o se vende de manera casi espontánea o natural en los mercados, en función de nuestras necesidades. Si queremos pan, entregamos una cantidad de dinero y recibimos la cantidad deseada de pan; si necesitamos un corte de cabello, acudimos a un local, entregamos una cantidad de dinero y recibimos el servicio correspondiente.
 
