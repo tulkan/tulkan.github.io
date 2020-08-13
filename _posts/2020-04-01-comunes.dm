@@ -2,7 +2,7 @@
 layout: post
 title:  "Bienes comunes y seguridad económica colectiva"
 date:   2020-04-01
-excerpt: "Para que sirve el dinero"
+excerpt: "De todos y de nadie"
 tag:
 - dinero 
 - mercado
