@@ -10,11 +10,9 @@ tag:
 comments: false
 ---
 
-Estamos  acostumbrados a hablar de los bienes en la economía como algo que se compra o se vende de manera casi espontánea o natural en los mercados, en función de nuestras necesidades. Si queremos pan, entregamos una cantidad de dinero y recibimos la cantidad deseada de pan; si necesitamos un corte de cabello, acudimos a un local, entregamos una cantidad de dinero y recibimos el servicio correspondiente.
+Estamos  acostumbrados a hablar de los bienes en la economía como algo que se compra o se vende de manera casi espontánea o natural en los mercados, en función de nuestras necesidades. Si queremos pan, entregamos una cantidad de dinero y recibimos la cantidad deseada de pan; si necesitamos un corte de cabello, acudimos a un local, entregamos una cantidad de dinero y recibimos el servicio correspondiente.  
 
-
-Cuando realizamos este tipo de transacciones cotidianas, suceden dos cosas:  se genera rivalidad en el consumo y exclusividad en el acceso al bien. La rivalidad significa que el pan que compramos, literalmente sólo lo podemos consumir nosotros y no otras personas. La exclusividad significa que para obtener ese pan, hay alguna forma de restricción u obstáculo, generalmente, un pago monetario. Muchos de los bienes que consumimos presentan estas dos características, son rivales y exclusivos, se les llama bienes privados.
-
+Cuando realizamos este tipo de transacciones cotidianas, suceden dos cosas:  se genera rivalidad en el consumo y exclusividad en el acceso al bien. La rivalidad significa que el pan que compramos, literalmente sólo lo podemos consumir nosotros y no otras personas. La exclusividad significa que para obtener ese pan, hay alguna forma de restricción u obstáculo, generalmente, un pago monetario. Muchos de los bienes que consumimos presentan estas dos características, son rivales y exclusivos, se les llama bienes privados.  
 
 En el lado opuesto del análisis se encuentra un tipo de bienes que no son ni rivales, ni exclusivos. Esto quiere decir que todos pueden consumirlo al mismo tiempo (no rival) y que además a nadie se le puede impedir acceder a usarlo (no exclusivo). El ejemplo por excelencia es la energía del sol. Si una persona se beneficia del sol para secar la ropa, no impide que otra persona pueda broncearse al mismo tiempo en la playa y tampoco es posible que alguien regule su uso con un impuesto o tarifa. Estos son los bienes públicos, aclarando que también pueden ser ciertos bienes o servicios que produce el estado.
 
