@@ -4,8 +4,8 @@ title:  "Bienes comunes y seguridad económica colectiva"
 date:   2020-04-01
 excerpt: "De todos y de nadie"
 tag:
-- dinero 
-- mercado
+- sostenible
+- comunes
 
 comments: false
 ---
